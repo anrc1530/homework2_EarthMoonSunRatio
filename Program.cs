@@ -35,7 +35,7 @@ namespace EarthMoonSunRatio
             double result4 = 1 / sunMass1;
 
             Console.WriteLine("The value of 1 / the mass of the Sun is " + result4);
-            string ret = Console.ReadLine()
+            string ret = Console.ReadLine();
         }
     }
 }
